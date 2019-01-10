@@ -1,6 +1,6 @@
 ---
 title: TypeScript, 특정 타입의 인자만 받아들이기3
-description:  {}
+description:  hi
 tags:
   - typescript
   - typing
